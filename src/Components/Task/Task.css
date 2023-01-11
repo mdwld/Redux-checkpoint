@@ -1,0 +1,9 @@
+.task-card{
+    display : flex;
+    flex-direction : row ; 
+    justify-content : space-around;
+    margin : 2rem; 
+}
+.done{
+    text-decoration: line-through;
+}
